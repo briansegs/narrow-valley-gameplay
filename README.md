@@ -9,3 +9,7 @@ There is a lot to check out and enjoy:
 * Ascii art 
 
 Try it out here: [Narrow Valley Game](https://briansegs.github.io/narrow-valley-gameplay/)
+
+Preview:
+
+![art](https://github.com/briansegs/narrow-valley/blob/main/preview-art.JPG?raw=true)
