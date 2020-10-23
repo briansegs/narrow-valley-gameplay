@@ -1,0 +1,9 @@
+body {
+    background-color: aliceblue;
+}
+
+#editor {
+    margin: auto;
+    width: 1000px;
+    border-radius: 5px;
+}
